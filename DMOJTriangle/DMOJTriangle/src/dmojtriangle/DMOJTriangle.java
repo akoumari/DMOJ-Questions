@@ -1,5 +1,3 @@
-// DMOJ Qeustion: CCC '14 J1 - Triangle Times
-//https://dmoj.ca/problem/ccc14j1
 package dmojtriangle;
 import java.util.*;
 
