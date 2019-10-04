@@ -1,5 +1,3 @@
-// DMOJ Qeustion: CCC '06 J3 - Cell-Phone Messaging
-//https://dmoj.ca/problem/ccc06j3
 package cellphone;
 import java.util.*;
 
