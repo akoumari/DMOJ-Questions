@@ -1,5 +1,3 @@
-// DMOJ Qeustion: CCC '09 J3 - Good Times
-//https://dmoj.ca/problem/ccc09j3
 package timezones;
 import java.util.*;
 public class Timezones {
