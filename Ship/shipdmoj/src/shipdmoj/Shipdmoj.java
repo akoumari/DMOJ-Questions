@@ -1,5 +1,3 @@
-// DMOJ Qeustion: Ship
-//https://dmoj.ca/problem/seed1
 package shipdmoj;
 import java.util.*;
 public class Shipdmoj {
